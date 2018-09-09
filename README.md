@@ -1,5 +1,8 @@
 # AngularContentProjection
 
+This is a demo of content projection in Angular.  In the modal component we use content projection to make a reusable component 
+that lets project your own content into the modal title bar and content area.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
